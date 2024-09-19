@@ -1,0 +1,12 @@
+.no-border {
+  border: none;
+  display: inline;
+}
+
+.nav-link {
+  color: black;
+}
+
+label {
+  font-weight: 500;
+}
